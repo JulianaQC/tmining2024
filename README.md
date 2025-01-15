@@ -4,6 +4,6 @@ Análisis de texto del discurso presidencial de Dina Boluarte pronunciado el 28 
 
 ### Código para la limpieza y análisis del texto.
 ### Visualizaciones como gráficos de barras que resaltan las palabras más usadas.
-### Interpretaciones preliminares sobre los enfoques y prioridades del discurso.
+### Interpretaciones preliminares sobre los enfoques y prioridades del discurso. [PENDIENTE]
 
 Este trabajo tiene como objetivo facilitar la comprensión del mensaje presidencial, contribuyendo a un análisis más profundo de las estrategias y propuestas del gobierno presentadas en esta fecha importante para el país.
